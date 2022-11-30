@@ -8,7 +8,10 @@ public class ORDENAMIENTO
 //        burbuja miBurbuja = new burbuja();
 //        miBurbuja.ordenarBurbuja();
         
-        quicksort quick = new quicksort();
-        quick.ordenar();
+//        quicksort quick = new quicksort();
+//        quick.ordenar();
+        
+        shellsort shell = new shellsort();
+        shell.ordenar();
     }
 }
